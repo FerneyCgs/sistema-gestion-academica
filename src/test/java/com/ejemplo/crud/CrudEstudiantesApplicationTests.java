@@ -1,4 +1,13 @@
 package com.ejemplo.crud;
 
-public class CrudEstudiantesApplicationTests {
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class NotasApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
 }
